@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://zona-angka-jitu.github.io/sitemap.xml
